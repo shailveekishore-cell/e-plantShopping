@@ -43,7 +43,19 @@ function App() {
   );
 }
 
-export default App;
+export default App; 
+
+<div className="landing-page">
+  <h1>Paradise Nursery</h1>
+
+  <p>
+    Bringing nature into your home.
+  </p>
+
+  <button>
+    Get Started
+  </button>
+</div>
 
 
 
